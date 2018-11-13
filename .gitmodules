@@ -1,0 +1,6 @@
+[submodule "include/aiocfscrape"]
+	path = include/aiocfscrape
+	url = https://github.com/pavlodvornikov/aiocfscrape
+[submodule "site-packages/aiocfscrape"]
+	path = site-packages/aiocfscrape
+	url = https://github.com/pavlodvornikov/aiocfscrape
