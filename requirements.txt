@@ -1,5 +1,5 @@
 aiohttp>=3.6.2
 js2py==0.68
 # -e git+https://github.com/pavlodvornikov/aiocfscrape#egg=master
-setuptools~=46.1.3
+setuptools==46.4.0
 requests~=2.23.0
